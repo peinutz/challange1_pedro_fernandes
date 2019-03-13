@@ -1,0 +1,21 @@
+{
+  "name": "test-1",
+  "version": "1.0.0",
+  "description": "Code Quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "Pedro Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mocha": "^6.0.2",
+    "mongoose": "^5.4.19",
+    "supertest": "^4.0.0"
+  }
+}
