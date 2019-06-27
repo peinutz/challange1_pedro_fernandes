@@ -1,6 +1,6 @@
 ## Challange
 
-#Create a small service deployed to a docker container that has two endpoints:
+### Create a small service deployed to a docker container that has two endpoints:
 
 1. /messages takes a message (a string) as a POST and returns the SHA256 hash digest of that
 message (in hexadecimal format)
